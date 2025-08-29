@@ -1,1 +1,0 @@
-berkesins = 31;
